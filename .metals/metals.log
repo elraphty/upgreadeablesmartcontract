@@ -1,0 +1,4 @@
+[0m2022.01.08 00:23:20 INFO  Started: Metals version 0.10.9 in workspace '/Users/apple/Desktop/Ethereum/upgradeablecontract' for client Visual Studio Code 1.62.3.[0m
+[0m2022.01.08 00:23:22 INFO  time: initialize in 2.09s[0m
+[0m2022.01.08 00:23:24 WARN  Build server is not auto-connectable.[0m
+[0m2022.01.08 00:23:24 WARN  no build tool detected in workspace '/Users/apple/Desktop/Ethereum/upgradeablecontract'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
