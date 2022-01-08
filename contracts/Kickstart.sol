@@ -2,10 +2,9 @@
 
 pragma solidity >=0.5.2 <0.9.0;
 
-import '@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol';
 import '@openzeppelin/contracts-upgradeable/security/ReentrancyGuardUpgradeable.sol';
 
-contract Kickstart is Initializable, ReentrancyGuardUpgradeable {
+contract Kickstart is ReentrancyGuardUpgradeable {
 
     struct Request   {
       string  description;
@@ -35,7 +34,7 @@ contract Kickstart is Initializable, ReentrancyGuardUpgradeable {
         _;
     }
 
-    function initialize(uint minimum, address payable creator) public initializer {
+    function initialize(uint minimum, address payable creator) public  {
         // Set the campaign mamager
         setManager(creator);
         

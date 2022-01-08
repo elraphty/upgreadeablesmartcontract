@@ -6,11 +6,14 @@ import '@openzeppelin/contracts-upgradeable/security/ReentrancyGuardUpgradeable.
 import "./Kickstart.sol";
 
 contract KickstartFactory is ReentrancyGuardUpgradeable {
-    address[] public deployedCampaigns;
+    address[] private deployedCampaigns;
     
     // Create a new campaign
     function createCampaign(uint minimum) public nonReentrant {
-        address newCampaign = address(new Kickstart(minimum, payable(msg.sender)));
+        Kickstart kickstart = new Kickstart();
+        address newCampaign = address(kickstart);
+
+        kickstart.initialize(minimum, payable(msg.sender));
         
         // Deployed campaigns setter
         addDeployedCampaign(newCampaign);

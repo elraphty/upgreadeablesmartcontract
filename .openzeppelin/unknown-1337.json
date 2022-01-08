@@ -1,0 +1,954 @@
+{
+  "manifestVersion": "3.2",
+  "admin": {
+    "address": "0x1def8FF7dE7A66E1619BD5b36fAf8b608AB264b7",
+    "txHash": "0xcf3cd2dfb22d4ee6394b93e04a06b5950905198eba713b61c45ea5e2585f6348"
+  },
+  "proxies": [
+    {
+      "address": "0x01782330baB2a2351A21BfC1DB63C8Dda69aDDc9",
+      "txHash": "0x8c70f7baa0a383f7d1be040e4562cf27d0f089da4dabda37df6387b4b6e739c4",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x33743c51Bf2aE14252669894dE872D7948EFD8b7",
+      "txHash": "0x2243860486c26a52d9f336ea63ec829562c7d656b52652459544165be74fb50a",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x4FC57E290A1174AEdba81bcc27C7946Ea38B36d3",
+      "txHash": "0x968746ab6c9154c89325479de3165b087a3e8f510a3610159e56c0fece5c0e4c",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x557C55b4712012A7c083Fae8d745adF782A1f355",
+      "txHash": "0xad4e0b6813830524c6e78b63c7d69d5ec2b7c62828ccb06ba622b0bdaed0621f",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x147fa54e3620A8C682Da6f3813d883220Ed14a70",
+      "txHash": "0x227d57c3002a4d87ef98ef70a365b76a5130b9cb035f03b521c320ce38387e21",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x3876E704cB454D2C3FfF571356d40A9B49Ba9c27",
+      "txHash": "0x31fbbcde84f1d62d00a7c2c927ef080e654a46dead044dc8d8fa96e7b5394915",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xF0F4ECE13b507BDC634bE825023fb367f400f16F",
+      "txHash": "0xa66bc5ae2a841cf6c5e9598f20e0c27f39e8e1eedd7be9a6db3f01d12edf34de",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xf8372629bbc2F7B2d2a2FFA19aE2b675Eb54aBe2",
+      "txHash": "0x801e887012a0a4ff123ba08acb0e75a768b0b1f237b0f3591b1ca68e41d5e053",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x098aD42601c3C538383b26017a9eB0A5d48473eA",
+      "txHash": "0x5de46134d496324440d86509b8d9f30fbe1d8635c55b07f4047f84aeb8e7e8e7",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x6146c3E633Fc77D2466cd6ccD9de1Aa2eB5cD451",
+      "txHash": "0x332f6a1b2d761cd89e4a2ce0bf9578e012b6c70c311f0a800357dc0dc60affad",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x04A8403e4957E66C17291B1AE4b7f80D0503f4Ee",
+      "txHash": "0xe906ef5e9eb7a490c25cee455bb9c2cf4780e29b282a327a9db261087be81bca",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xac7A6AF52D0017692f4105A431248a1c03c94FbD",
+      "txHash": "0x642489c2fba63dc8eeb9e78df8065abcd0328658f30c6b3150429e78879e3a86",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x2eF166878A9f8f6F25D9afE65b2Ef6B9EbB1bbD4",
+      "txHash": "0x7288120a6afb42901f4ff6874a5b010d1fb4ec6604da0d1bfb2a9c32d327b3a7",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x7c92b52F814508046DB212F377176f1ab91d37dE",
+      "txHash": "0x41e0929c3a155b7032879c9555e6bc2114eb907cd48d89733230a2be5e4ba77d",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x6c1eB5D78957cE723AEC30B447AD79d25589e6aC",
+      "txHash": "0x45c812c69964fced515e0ad5ec7b7e7dc4772f90d59dc1af0049a2f87be58ad0",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xeDe42c6029061f9AcD4A7c2b57A9A236AB8540CF",
+      "txHash": "0xd60751821dd8bd381b697382e65e8d11f4722e2c72f361ec94d28cdd2e266a6a",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x97cA6FC2fAda74403aB3989fA3fF2a18CD46C70B",
+      "txHash": "0x110231c56fc322825cd6d3be823e83f3a6dade4ebf3361280f99d81af00912e4",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x5eb73d301c316C3f99442867E6D62eCB6C4F5FE2",
+      "txHash": "0x6d64b7c23dcba94878909a5f5cc88f9757fc5c189c228f6ff2a43357440bb386",
+      "kind": "transparent"
+    }
+  ],
+  "impls": {
+    "724dd572b81345fefea1195e15d55492a5bd4347abe7fa39c13ac1f5bd3d4f4c": {
+      "address": "0x22207371D58396e5C3eEff1c0F7B30B212Ba2081",
+      "txHash": "0x5fc06c7f746285c3622281a006bf819567add5a2bf1cf7bfffddca16476d6969",
+      "layout": {
+        "storage": [
+          {
+            "contract": "Initializable",
+            "label": "_initialized",
+            "type": "t_bool",
+            "src": "../@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol:39"
+          },
+          {
+            "contract": "Initializable",
+            "label": "_initializing",
+            "type": "t_bool",
+            "src": "../@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol:44"
+          },
+          {
+            "contract": "ReentrancyGuardUpgradeable",
+            "label": "_status",
+            "type": "t_uint256",
+            "src": "../@openzeppelin/contracts-upgradeable/security/ReentrancyGuardUpgradeable.sol:38"
+          },
+          {
+            "contract": "ReentrancyGuardUpgradeable",
+            "label": "__gap",
+            "type": "t_array(t_uint256)49_storage",
+            "src": "../@openzeppelin/contracts-upgradeable/security/ReentrancyGuardUpgradeable.sol:68"
+          },
+          {
+            "contract": "KickstartFactory",
+            "label": "deployedCampaigns",
+            "type": "t_array(t_address)dyn_storage",
+            "src": "../project:/contracts/KickstartFactory.sol:9"
+          }
+        ],
+        "types": {
+          "t_array(t_address)dyn_storage": {
+            "label": "address[]"
+          },
+          "t_address": {
+            "label": "address"
+          },
+          "t_uint256": {
+            "label": "uint256"
+          },
+          "t_array(t_uint256)49_storage": {
+            "label": "uint256[49]"
+          },
+          "t_bool": {
+            "label": "bool"
+          }
+        }
+      }
+    },
+    "3581d1039c6f99ec1d559a8595d31fc78b1e350f8b6e5a2aa617a6d2301a160b": {
+      "address": "0xe9f097aB123631FdBF3FFC3Dd5bA3E0b11aa42CC",
+      "txHash": "0x43164771dfb23d569677c78b9061fc57a6588c5c3c482d6420f68e4e00aa02fa",
+      "layout": {
+        "storage": [
+          {
+            "contract": "Initializable",
+            "label": "_initialized",
+            "type": "t_bool",
+            "src": "../@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol:39"
+          },
+          {
+            "contract": "Initializable",
+            "label": "_initializing",
+            "type": "t_bool",
+            "src": "../@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol:44"
+          },
+          {
+            "contract": "ReentrancyGuardUpgradeable",
+            "label": "_status",
+            "type": "t_uint256",
+            "src": "../@openzeppelin/contracts-upgradeable/security/ReentrancyGuardUpgradeable.sol:38"
+          },
+          {
+            "contract": "ReentrancyGuardUpgradeable",
+            "label": "__gap",
+            "type": "t_array(t_uint256)49_storage",
+            "src": "../@openzeppelin/contracts-upgradeable/security/ReentrancyGuardUpgradeable.sol:68"
+          },
+          {
+            "contract": "Kickstart",
+            "label": "requests",
+            "type": "t_mapping(t_uint256,t_struct(Request)399_storage)",
+            "src": "../project:/contracts/Kickstart.sol:20"
+          },
+          {
+            "contract": "Kickstart",
+            "label": "approvers",
+            "type": "t_mapping(t_address,t_bool)",
+            "src": "../project:/contracts/Kickstart.sol:23"
+          },
+          {
+            "contract": "Kickstart",
+            "label": "currentIndex",
+            "type": "t_uint256",
+            "src": "../project:/contracts/Kickstart.sol:26"
+          },
+          {
+            "contract": "Kickstart",
+            "label": "manager",
+            "type": "t_address_payable",
+            "src": "../project:/contracts/Kickstart.sol:28"
+          },
+          {
+            "contract": "Kickstart",
+            "label": "minimumContribution",
+            "type": "t_uint256",
+            "src": "../project:/contracts/Kickstart.sol:29"
+          },
+          {
+            "contract": "Kickstart",
+            "label": "approversCount",
+            "type": "t_uint256",
+            "src": "../project:/contracts/Kickstart.sol:30"
+          }
+        ],
+        "types": {
+          "t_mapping(t_uint256,t_struct(Request)399_storage)": {
+            "label": "mapping(uint256 => struct Kickstart.Request)"
+          },
+          "t_uint256": {
+            "label": "uint256"
+          },
+          "t_struct(Request)399_storage": {
+            "label": "struct Kickstart.Request",
+            "members": [
+              {
+                "label": "description",
+                "type": "t_string_storage"
+              },
+              {
+                "label": "value",
+                "type": "t_uint256"
+              },
+              {
+                "label": "recipient",
+                "type": "t_address_payable"
+              },
+              {
+                "label": "complete",
+                "type": "t_bool"
+              },
+              {
+                "label": "approvalCount",
+                "type": "t_uint256"
+              },
+              {
+                "label": "approvals",
+                "type": "t_mapping(t_address,t_bool)"
+              }
+            ]
+          },
+          "t_string_storage": {
+            "label": "string"
+          },
+          "t_address_payable": {
+            "label": "address payable"
+          },
+          "t_bool": {
+            "label": "bool"
+          },
+          "t_mapping(t_address,t_bool)": {
+            "label": "mapping(address => bool)"
+          },
+          "t_address": {
+            "label": "address"
+          },
+          "t_array(t_uint256)49_storage": {
+            "label": "uint256[49]"
+          }
+        }
+      }
+    },
+    "c7de44232908b812a2d597f5b175eb614d246493b425e986153d35b6ff593ac2": {
+      "address": "0xFC4d80DA24110311fc0F899cC37AAb200384d5cf",
+      "txHash": "0xfdec9e7673f7a2957f90bd52f9b90c99feae1aec007ccf365e8ade8c8ddf5143",
+      "layout": {
+        "storage": [
+          {
+            "contract": "Initializable",
+            "label": "_initialized",
+            "type": "t_bool",
+            "src": "../@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol:39"
+          },
+          {
+            "contract": "Initializable",
+            "label": "_initializing",
+            "type": "t_bool",
+            "src": "../@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol:44"
+          },
+          {
+            "contract": "ReentrancyGuardUpgradeable",
+            "label": "_status",
+            "type": "t_uint256",
+            "src": "../@openzeppelin/contracts-upgradeable/security/ReentrancyGuardUpgradeable.sol:38"
+          },
+          {
+            "contract": "ReentrancyGuardUpgradeable",
+            "label": "__gap",
+            "type": "t_array(t_uint256)49_storage",
+            "src": "../@openzeppelin/contracts-upgradeable/security/ReentrancyGuardUpgradeable.sol:68"
+          },
+          {
+            "contract": "KickstartFactory",
+            "label": "deployedCampaigns",
+            "type": "t_array(t_address)dyn_storage",
+            "src": "../project:/contracts/KickstartFactory.sol:9"
+          }
+        ],
+        "types": {
+          "t_array(t_address)dyn_storage": {
+            "label": "address[]"
+          },
+          "t_address": {
+            "label": "address"
+          },
+          "t_uint256": {
+            "label": "uint256"
+          },
+          "t_array(t_uint256)49_storage": {
+            "label": "uint256[49]"
+          },
+          "t_bool": {
+            "label": "bool"
+          }
+        }
+      }
+    },
+    "94cf9cf797d498b4de7e774b9d7f078ba119392901abff3afa191d40ad593fb5": {
+      "address": "0x1C57399060b579A06b642dE66DdEBfd7D05b7eC9",
+      "txHash": "0x3af576bda83f6c93851d78b7a4f8a2c15697b0bd0a5fc0520e3013515609f9a9",
+      "layout": {
+        "storage": [
+          {
+            "contract": "Initializable",
+            "label": "_initialized",
+            "type": "t_bool",
+            "src": "../@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol:39"
+          },
+          {
+            "contract": "Initializable",
+            "label": "_initializing",
+            "type": "t_bool",
+            "src": "../@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol:44"
+          },
+          {
+            "contract": "ReentrancyGuardUpgradeable",
+            "label": "_status",
+            "type": "t_uint256",
+            "src": "../@openzeppelin/contracts-upgradeable/security/ReentrancyGuardUpgradeable.sol:38"
+          },
+          {
+            "contract": "ReentrancyGuardUpgradeable",
+            "label": "__gap",
+            "type": "t_array(t_uint256)49_storage",
+            "src": "../@openzeppelin/contracts-upgradeable/security/ReentrancyGuardUpgradeable.sol:68"
+          },
+          {
+            "contract": "Kickstart",
+            "label": "requests",
+            "type": "t_mapping(t_uint256,t_struct(Request)396_storage)",
+            "src": "../project:/contracts/Kickstart.sol:20"
+          },
+          {
+            "contract": "Kickstart",
+            "label": "approvers",
+            "type": "t_mapping(t_address,t_bool)",
+            "src": "../project:/contracts/Kickstart.sol:23"
+          },
+          {
+            "contract": "Kickstart",
+            "label": "currentIndex",
+            "type": "t_uint256",
+            "src": "../project:/contracts/Kickstart.sol:26"
+          },
+          {
+            "contract": "Kickstart",
+            "label": "manager",
+            "type": "t_address_payable",
+            "src": "../project:/contracts/Kickstart.sol:28"
+          },
+          {
+            "contract": "Kickstart",
+            "label": "minimumContribution",
+            "type": "t_uint256",
+            "src": "../project:/contracts/Kickstart.sol:29"
+          },
+          {
+            "contract": "Kickstart",
+            "label": "approversCount",
+            "type": "t_uint256",
+            "src": "../project:/contracts/Kickstart.sol:30"
+          },
+          {
+            "contract": "KickstartFactory",
+            "label": "deployedCampaigns",
+            "type": "t_array(t_address)dyn_storage",
+            "src": "../project:/contracts/KickstartFactory.sol:9"
+          }
+        ],
+        "types": {
+          "t_array(t_address)dyn_storage": {
+            "label": "address[]"
+          },
+          "t_address": {
+            "label": "address"
+          },
+          "t_mapping(t_uint256,t_struct(Request)396_storage)": {
+            "label": "mapping(uint256 => struct Kickstart.Request)"
+          },
+          "t_uint256": {
+            "label": "uint256"
+          },
+          "t_struct(Request)396_storage": {
+            "label": "struct Kickstart.Request",
+            "members": [
+              {
+                "label": "description",
+                "type": "t_string_storage"
+              },
+              {
+                "label": "value",
+                "type": "t_uint256"
+              },
+              {
+                "label": "recipient",
+                "type": "t_address_payable"
+              },
+              {
+                "label": "complete",
+                "type": "t_bool"
+              },
+              {
+                "label": "approvalCount",
+                "type": "t_uint256"
+              },
+              {
+                "label": "approvals",
+                "type": "t_mapping(t_address,t_bool)"
+              }
+            ]
+          },
+          "t_string_storage": {
+            "label": "string"
+          },
+          "t_address_payable": {
+            "label": "address payable"
+          },
+          "t_bool": {
+            "label": "bool"
+          },
+          "t_mapping(t_address,t_bool)": {
+            "label": "mapping(address => bool)"
+          },
+          "t_array(t_uint256)49_storage": {
+            "label": "uint256[49]"
+          }
+        }
+      }
+    },
+    "48a504195350203c17705a7d4008c983813b35201ffd767e6248f98a3be5c556": {
+      "address": "0xb564823b7A543aA8e10d10548cabe141E7D1Ba04",
+      "txHash": "0x0e6f97dacc653552275b7b58f2dee69cfb12956fa127824210b5e8aadd729fba",
+      "layout": {
+        "storage": [
+          {
+            "contract": "Initializable",
+            "label": "_initialized",
+            "type": "t_bool",
+            "src": "../@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol:39"
+          },
+          {
+            "contract": "Initializable",
+            "label": "_initializing",
+            "type": "t_bool",
+            "src": "../@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol:44"
+          },
+          {
+            "contract": "ReentrancyGuardUpgradeable",
+            "label": "_status",
+            "type": "t_uint256",
+            "src": "../@openzeppelin/contracts-upgradeable/security/ReentrancyGuardUpgradeable.sol:38"
+          },
+          {
+            "contract": "ReentrancyGuardUpgradeable",
+            "label": "__gap",
+            "type": "t_array(t_uint256)49_storage",
+            "src": "../@openzeppelin/contracts-upgradeable/security/ReentrancyGuardUpgradeable.sol:68"
+          },
+          {
+            "contract": "Kickstart",
+            "label": "requests",
+            "type": "t_mapping(t_uint256,t_struct(Request)396_storage)",
+            "src": "../project:/contracts/Kickstart.sol:20"
+          },
+          {
+            "contract": "Kickstart",
+            "label": "approvers",
+            "type": "t_mapping(t_address,t_bool)",
+            "src": "../project:/contracts/Kickstart.sol:23"
+          },
+          {
+            "contract": "Kickstart",
+            "label": "currentIndex",
+            "type": "t_uint256",
+            "src": "../project:/contracts/Kickstart.sol:26"
+          },
+          {
+            "contract": "Kickstart",
+            "label": "manager",
+            "type": "t_address_payable",
+            "src": "../project:/contracts/Kickstart.sol:28"
+          },
+          {
+            "contract": "Kickstart",
+            "label": "minimumContribution",
+            "type": "t_uint256",
+            "src": "../project:/contracts/Kickstart.sol:29"
+          },
+          {
+            "contract": "Kickstart",
+            "label": "approversCount",
+            "type": "t_uint256",
+            "src": "../project:/contracts/Kickstart.sol:30"
+          }
+        ],
+        "types": {
+          "t_mapping(t_uint256,t_struct(Request)396_storage)": {
+            "label": "mapping(uint256 => struct Kickstart.Request)"
+          },
+          "t_uint256": {
+            "label": "uint256"
+          },
+          "t_struct(Request)396_storage": {
+            "label": "struct Kickstart.Request",
+            "members": [
+              {
+                "label": "description",
+                "type": "t_string_storage"
+              },
+              {
+                "label": "value",
+                "type": "t_uint256"
+              },
+              {
+                "label": "recipient",
+                "type": "t_address_payable"
+              },
+              {
+                "label": "complete",
+                "type": "t_bool"
+              },
+              {
+                "label": "approvalCount",
+                "type": "t_uint256"
+              },
+              {
+                "label": "approvals",
+                "type": "t_mapping(t_address,t_bool)"
+              }
+            ]
+          },
+          "t_string_storage": {
+            "label": "string"
+          },
+          "t_address_payable": {
+            "label": "address payable"
+          },
+          "t_bool": {
+            "label": "bool"
+          },
+          "t_mapping(t_address,t_bool)": {
+            "label": "mapping(address => bool)"
+          },
+          "t_address": {
+            "label": "address"
+          },
+          "t_array(t_uint256)49_storage": {
+            "label": "uint256[49]"
+          }
+        }
+      }
+    },
+    "05f3cff44e4d918f7c93e1ef88b1accc8ef459c234dddd8419bcf4d04f70657d": {
+      "address": "0x92d856310342992E431e690e40D6eC34F9c9239d",
+      "txHash": "0xd0fdfeb7a48b70f76f00959cbd1f374ab22112aa52fee8f28ac4354dde8446be",
+      "layout": {
+        "storage": [
+          {
+            "contract": "Initializable",
+            "label": "_initialized",
+            "type": "t_bool",
+            "src": "../@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol:39"
+          },
+          {
+            "contract": "Initializable",
+            "label": "_initializing",
+            "type": "t_bool",
+            "src": "../@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol:44"
+          },
+          {
+            "contract": "ReentrancyGuardUpgradeable",
+            "label": "_status",
+            "type": "t_uint256",
+            "src": "../@openzeppelin/contracts-upgradeable/security/ReentrancyGuardUpgradeable.sol:38"
+          },
+          {
+            "contract": "ReentrancyGuardUpgradeable",
+            "label": "__gap",
+            "type": "t_array(t_uint256)49_storage",
+            "src": "../@openzeppelin/contracts-upgradeable/security/ReentrancyGuardUpgradeable.sol:68"
+          },
+          {
+            "contract": "Kickstart",
+            "label": "requests",
+            "type": "t_mapping(t_uint256,t_struct(Request)396_storage)",
+            "src": "../project:/contracts/Kickstart.sol:20"
+          },
+          {
+            "contract": "Kickstart",
+            "label": "approvers",
+            "type": "t_mapping(t_address,t_bool)",
+            "src": "../project:/contracts/Kickstart.sol:23"
+          },
+          {
+            "contract": "Kickstart",
+            "label": "currentIndex",
+            "type": "t_uint256",
+            "src": "../project:/contracts/Kickstart.sol:26"
+          },
+          {
+            "contract": "Kickstart",
+            "label": "manager",
+            "type": "t_address_payable",
+            "src": "../project:/contracts/Kickstart.sol:28"
+          },
+          {
+            "contract": "Kickstart",
+            "label": "minimumContribution",
+            "type": "t_uint256",
+            "src": "../project:/contracts/Kickstart.sol:29"
+          },
+          {
+            "contract": "Kickstart",
+            "label": "approversCount",
+            "type": "t_uint256",
+            "src": "../project:/contracts/Kickstart.sol:30"
+          },
+          {
+            "contract": "KickstartFactory",
+            "label": "deployedCampaigns",
+            "type": "t_array(t_address)dyn_storage",
+            "src": "../project:/contracts/KickstartFactory.sol:9"
+          }
+        ],
+        "types": {
+          "t_array(t_address)dyn_storage": {
+            "label": "address[]"
+          },
+          "t_address": {
+            "label": "address"
+          },
+          "t_mapping(t_uint256,t_struct(Request)396_storage)": {
+            "label": "mapping(uint256 => struct Kickstart.Request)"
+          },
+          "t_uint256": {
+            "label": "uint256"
+          },
+          "t_struct(Request)396_storage": {
+            "label": "struct Kickstart.Request",
+            "members": [
+              {
+                "label": "description",
+                "type": "t_string_storage"
+              },
+              {
+                "label": "value",
+                "type": "t_uint256"
+              },
+              {
+                "label": "recipient",
+                "type": "t_address_payable"
+              },
+              {
+                "label": "complete",
+                "type": "t_bool"
+              },
+              {
+                "label": "approvalCount",
+                "type": "t_uint256"
+              },
+              {
+                "label": "approvals",
+                "type": "t_mapping(t_address,t_bool)"
+              }
+            ]
+          },
+          "t_string_storage": {
+            "label": "string"
+          },
+          "t_address_payable": {
+            "label": "address payable"
+          },
+          "t_bool": {
+            "label": "bool"
+          },
+          "t_mapping(t_address,t_bool)": {
+            "label": "mapping(address => bool)"
+          },
+          "t_array(t_uint256)49_storage": {
+            "label": "uint256[49]"
+          }
+        }
+      }
+    },
+    "e3ebe0f744cee0e6b6ecc5edfb61db3da044d942860df06d63005c4874002c52": {
+      "address": "0x92E8cfa71896a02E0516A87de55276928f162701",
+      "txHash": "0xc54285ce383862456cf2c41344436394edfa646f70abd1a33ad4f67b42ec9183",
+      "layout": {
+        "storage": [
+          {
+            "contract": "Initializable",
+            "label": "_initialized",
+            "type": "t_bool",
+            "src": "../@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol:39"
+          },
+          {
+            "contract": "Initializable",
+            "label": "_initializing",
+            "type": "t_bool",
+            "src": "../@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol:44"
+          },
+          {
+            "contract": "ReentrancyGuardUpgradeable",
+            "label": "_status",
+            "type": "t_uint256",
+            "src": "../@openzeppelin/contracts-upgradeable/security/ReentrancyGuardUpgradeable.sol:38"
+          },
+          {
+            "contract": "ReentrancyGuardUpgradeable",
+            "label": "__gap",
+            "type": "t_array(t_uint256)49_storage",
+            "src": "../@openzeppelin/contracts-upgradeable/security/ReentrancyGuardUpgradeable.sol:68"
+          },
+          {
+            "contract": "KickstartFactory",
+            "label": "deployedCampaigns",
+            "type": "t_array(t_address)dyn_storage",
+            "src": "../project:/contracts/KickstartFactory.sol:9"
+          }
+        ],
+        "types": {
+          "t_array(t_address)dyn_storage": {
+            "label": "address[]"
+          },
+          "t_address": {
+            "label": "address"
+          },
+          "t_uint256": {
+            "label": "uint256"
+          },
+          "t_array(t_uint256)49_storage": {
+            "label": "uint256[49]"
+          },
+          "t_bool": {
+            "label": "bool"
+          }
+        }
+      }
+    },
+    "818e9ed542765616387234eb5fdaf4e6fc9cfaeff29e12c98cf4dbfd18fdade4": {
+      "address": "0xA330C3173CA1Bd754094cd13CF8720ab8F56D7C5",
+      "txHash": "0x55943f98a6342cb5881d5f8f03008128e744b280f9f8bbc8b546937e88f5cf06",
+      "layout": {
+        "storage": [
+          {
+            "contract": "Initializable",
+            "label": "_initialized",
+            "type": "t_bool",
+            "src": "../@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol:39"
+          },
+          {
+            "contract": "Initializable",
+            "label": "_initializing",
+            "type": "t_bool",
+            "src": "../@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol:44"
+          },
+          {
+            "contract": "ReentrancyGuardUpgradeable",
+            "label": "_status",
+            "type": "t_uint256",
+            "src": "../@openzeppelin/contracts-upgradeable/security/ReentrancyGuardUpgradeable.sol:38"
+          },
+          {
+            "contract": "ReentrancyGuardUpgradeable",
+            "label": "__gap",
+            "type": "t_array(t_uint256)49_storage",
+            "src": "../@openzeppelin/contracts-upgradeable/security/ReentrancyGuardUpgradeable.sol:68"
+          },
+          {
+            "contract": "Kickstart",
+            "label": "requests",
+            "type": "t_mapping(t_uint256,t_struct(Request)396_storage)",
+            "src": "../project:/contracts/Kickstart.sol:19"
+          },
+          {
+            "contract": "Kickstart",
+            "label": "approvers",
+            "type": "t_mapping(t_address,t_bool)",
+            "src": "../project:/contracts/Kickstart.sol:22"
+          },
+          {
+            "contract": "Kickstart",
+            "label": "currentIndex",
+            "type": "t_uint256",
+            "src": "../project:/contracts/Kickstart.sol:25"
+          },
+          {
+            "contract": "Kickstart",
+            "label": "manager",
+            "type": "t_address_payable",
+            "src": "../project:/contracts/Kickstart.sol:27"
+          },
+          {
+            "contract": "Kickstart",
+            "label": "minimumContribution",
+            "type": "t_uint256",
+            "src": "../project:/contracts/Kickstart.sol:28"
+          },
+          {
+            "contract": "Kickstart",
+            "label": "approversCount",
+            "type": "t_uint256",
+            "src": "../project:/contracts/Kickstart.sol:29"
+          }
+        ],
+        "types": {
+          "t_mapping(t_uint256,t_struct(Request)396_storage)": {
+            "label": "mapping(uint256 => struct Kickstart.Request)"
+          },
+          "t_uint256": {
+            "label": "uint256"
+          },
+          "t_struct(Request)396_storage": {
+            "label": "struct Kickstart.Request",
+            "members": [
+              {
+                "label": "description",
+                "type": "t_string_storage"
+              },
+              {
+                "label": "value",
+                "type": "t_uint256"
+              },
+              {
+                "label": "recipient",
+                "type": "t_address_payable"
+              },
+              {
+                "label": "complete",
+                "type": "t_bool"
+              },
+              {
+                "label": "approvalCount",
+                "type": "t_uint256"
+              },
+              {
+                "label": "approvals",
+                "type": "t_mapping(t_address,t_bool)"
+              }
+            ]
+          },
+          "t_string_storage": {
+            "label": "string"
+          },
+          "t_address_payable": {
+            "label": "address payable"
+          },
+          "t_bool": {
+            "label": "bool"
+          },
+          "t_mapping(t_address,t_bool)": {
+            "label": "mapping(address => bool)"
+          },
+          "t_address": {
+            "label": "address"
+          },
+          "t_array(t_uint256)49_storage": {
+            "label": "uint256[49]"
+          }
+        }
+      }
+    },
+    "20c122243b86e6ab9de4485ce97b3a742f775ee25dc0195d8726304ab3a68963": {
+      "address": "0x41B4921C50c85AAd535fCf66aD935aCE883D1E8B",
+      "txHash": "0x1d48aabd250c7bb8a3d03010c2855d6c3ed44f87ea42739418e15dcf532735c6",
+      "layout": {
+        "storage": [
+          {
+            "contract": "Initializable",
+            "label": "_initialized",
+            "type": "t_bool",
+            "src": "../@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol:39"
+          },
+          {
+            "contract": "Initializable",
+            "label": "_initializing",
+            "type": "t_bool",
+            "src": "../@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol:44"
+          },
+          {
+            "contract": "ReentrancyGuardUpgradeable",
+            "label": "_status",
+            "type": "t_uint256",
+            "src": "../@openzeppelin/contracts-upgradeable/security/ReentrancyGuardUpgradeable.sol:38"
+          },
+          {
+            "contract": "ReentrancyGuardUpgradeable",
+            "label": "__gap",
+            "type": "t_array(t_uint256)49_storage",
+            "src": "../@openzeppelin/contracts-upgradeable/security/ReentrancyGuardUpgradeable.sol:68"
+          },
+          {
+            "contract": "KickstartFactoryV2",
+            "label": "deployedCampaigns",
+            "type": "t_array(t_address)dyn_storage",
+            "src": "../project:/contracts/KickstartFactoryV2.sol:9"
+          }
+        ],
+        "types": {
+          "t_array(t_address)dyn_storage": {
+            "label": "address[]"
+          },
+          "t_address": {
+            "label": "address"
+          },
+          "t_uint256": {
+            "label": "uint256"
+          },
+          "t_array(t_uint256)49_storage": {
+            "label": "uint256[49]"
+          },
+          "t_bool": {
+            "label": "bool"
+          }
+        }
+      }
+    }
+  }
+}
