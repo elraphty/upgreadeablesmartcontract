@@ -6,13 +6,13 @@
  - Make sure u have nodejs and npm installed
  - Install truffle globally `npm install truffle -g` or locally npm install truffle in the project root directory
  - And also have ganache desktop or ganache-cli installed
- - Run npm install to install dependencies
+ - Run `npm install` to install dependencies
 
 
 ## Truffle commands
- - truffle compile // for compiling the contracts
- - truffle migrate // for contract migration
- - truffle console // to get access to truffle console
+ - `truffle compile` // for compiling the contracts
+ - `truffle migrate` // for contract migration
+ - `truffle console` // to get access to truffle console
 
 
 In the truffle console run this commands to test the deployed contracts
